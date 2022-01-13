@@ -4,7 +4,7 @@ Hello, World!
 # Heading 1
 ## Heading 2
 [Link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fpolisci.ucsd.edu%2F_images%2F210115-Geisel-135DSC_7396-UCSanDiego-ErikJepsen_1.jpeg&imgrefurl=https%3A%2F%2Fpolisci.ucsd.edu%2F&tbnid=KO0JsqBn0LpQgM&vet=12ahUKEwjPruGbqK_1AhVVAjQIHSOqAkkQMygFegUIARDdAQ..i&docid=0Af1ZOzF0qEaBM&w=1280&h=800&itg=1&q=ucsd&ved=2ahUKEwjPruGbqK_1AhVVAjQIHSOqAkkQMygFegUIARDdAQ)
+![Image](![image](https://user-images.githubusercontent.com/69172865/149385099-c688e3ef-6eae-47bd-95a7-a8e132dd51d5.png)
 > Blockquote
 * List
 1. One
