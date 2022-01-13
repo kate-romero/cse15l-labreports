@@ -1,5 +1,6 @@
-Hello, World!
+
 *Italic*
+Reminder: ask question about how to make a new line
 **Bold**
 # Heading 1
 ## Heading 2
