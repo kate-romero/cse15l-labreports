@@ -18,7 +18,8 @@
 3. Inside the terminal, type `ssh cs15lwi22zz@ieng6.ucsd.edu` (replace `zz` with the letters unique to your course username) and press enter  
 4. If this is your first time connecting to the remote server, you will see a confirmation message. Type `yes` and press enter.  
 5. You should see something similar to the picture below. You are now connected to ieng6!  
-6. Try running some commands through the remote server by typing them into the terminal. The following is a list of some commands.  
+## Trying Some Commands
+Try running some commands through the remote server by typing them into the terminal. The following is a list of some commands.  
 `cd ~`  
 `cd`  
 `ls -lat`  
