@@ -1,6 +1,13 @@
-
+[Lab Report 1](https://github.com/kate-romero/cse15l-labreports/blob/main/test.md)  
 *Italic*
 Reminder: ask question about how to make a new line
+
+AHHHHHHH
+HHHHHH
+
+HHHHHHHHHHHH  
+hhh
+
 **Bold**
 # Heading 1
 ## Heading 2
@@ -9,7 +16,7 @@ Reminder: ask question about how to make a new line
 > Blockquote
 * List
 1. One
-2. Horizontal rule:
+ Horizontal rule:
 
 ---
 `Inline code` with backticks
