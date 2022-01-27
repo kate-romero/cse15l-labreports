@@ -2,6 +2,7 @@
 ## Installing VSCode  
 1. Click [this link](https://code.visualstudio.com/)  
 2. Select the drop down arrow and select the appropriate download icon.  
+![your screen should look something like this](C:\Users\kate_\OneDrive\Documents\GitHub\cse15l-labreports\c15_lab1_p1.png)  
 ## Remotely Connecting  
 ### Resetting Your Password  
 1. Click [this link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) and follow the directions to install OpenSSH.  

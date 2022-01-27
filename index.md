@@ -1,4 +1,4 @@
-[Lab Report 1](https://<kate-romero>.github.io/<cse15l-labreports>/lab-report-1-week-2.html)  
+[Lab Report 1](https://kate-romero.github.io/cse15l-labreports/lab-report-1-week-2.html)  
 *Italic*
 Reminder: ask question about how to make a new line
 
