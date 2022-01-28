@@ -1,4 +1,4 @@
-# CSE 15l: Lab 1 *for Windows* (I have screenshots, but could not figure out how to add them)  
+# CSE 15l: Lab 1 *for Windows*   
 ## Installing VSCode  
 1. Click [this link](https://code.visualstudio.com/)  
 2. Select the drop down arrow and select the appropriate download icon.  
@@ -46,11 +46,16 @@ Try running some commands through the remote server by typing them into the term
 }``  
 3. Save the file and open a terminal  
 4. In the terminal, type `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/` and press enter  
-![image_2](c15_lab1_p7.png)  
 5. When prompted, enter your password  
-6. The file has now been copied to the remote server! You can now run it through ieng6 when logged in.  
+6. The file has now been copied to the remote server! It will now be listed when you type run the `ls` command in ieng6. You can now run `WhereAmI.java` through ieng6 when logged in.  
+![image_7](c15_lab1_p7.png)  
 ## Setting an SSH Key  
 Follow the directions in [this link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)  
+Your key's randomart image should look similar to the following:  
+![image_8](c15_lab1_p8.png)  
 You can now connect to ieng6 without a password!  
 ## Optimizing Remote Running  
-There are lots of neat tips and tricks to help you work even faster. For example: in the terminal, you can press the `up arrow` on your keyboard to select the last command you entered. Press it more than once to scroll through all your previous commands!
+There are lots of neat tips and tricks to help you work even faster. For example: in the terminal, you can press the `up arrow` on your keyboard to select the last command you entered. Press it several times or hold it down to scroll through all your previous commands. Keeping a document of long commands that you use often is also useful because you can copy and paste them.  
+Without using any tips or tricks, copying a change in `WhereAmI.java` to ieng6 and running it remotely took 61.31 seconds and 115 keystrokes.  
+Using the `up arrow` and the SSH Key allowed me to complete the same process in 15.82 seconds using only 8 keystrokes.  
+![image_9](c15_lab1_p9.png)
