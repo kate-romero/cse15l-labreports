@@ -55,7 +55,14 @@ Your key's randomart image should look similar to the following:
 ![image_8](c15_lab1_p8.png)  
 You can now connect to ieng6 without a password!  
 ## Optimizing Remote Running  
-There are lots of neat tips and tricks to help you work even faster. For example: in the terminal, you can press the `up arrow` on your keyboard to select the last command you entered. Press it several times or hold it down to scroll through all your previous commands. Keeping a document of long commands that you use often is also useful because you can copy and paste them.  
+Tips and tricks to go even faster  
+* Press the `up arrow` on your keyboard while in the terminal to select a previous command  
+* Write a command in quotes at the end of an `ssh` comman in quotes to run it on the remote server and then exit  
+* Use semicolons to run multiple commands on the same line  
+* Keep a document with the commands you use most often (copy and paste into terminal)  
+
 Without using any tips or tricks, copying a change in `WhereAmI.java` to ieng6 and running it remotely took 61.31 seconds and 115 keystrokes.  
-Using the `up arrow` and the SSH Key allowed me to complete the same process in 15.82 seconds using only 8 keystrokes.  
-![image_9](c15_lab1_p9.png)
+
+Using the a combination of the tips and tricks and the SSH Key allowed me to complete the same process in 10.01 seconds using only 7 keystrokes.  
+
+![image_9](c15_lab1_p11.png)
