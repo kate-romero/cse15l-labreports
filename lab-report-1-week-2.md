@@ -65,4 +65,4 @@ Without using any tips or tricks, copying a change in `WhereAmI.java` to ieng6 a
 
 Using the a combination of the tips and tricks and the SSH Key allowed me to complete the same process in 10.01 seconds using only 7 keystrokes.  
 
-![image_9](c15_lab1_p11.png)
+![image_9](c15_lab1_p9.png)
