@@ -1,5 +1,6 @@
 [Lab Report 1](https://kate-romero.github.io/cse15l-labreports/lab-report-1-week-2.html)  
 [Lab Report 2](https://kate-romero.github.io/cse15l-labreports/lab-report-2-week-4.html)  
+[Lab Report 3](https://kate-romero.github.io/cse15l-labreports/lab-report-3-week-6.html)
 
 *Italic*
 Reminder: new line is 2 spaces at end of line, then `enter`
