@@ -7,6 +7,6 @@
 ### Logging into my ieng6 account after copying the directory and compiling and running the tests for my repository  
 ![i2](thisOne2.png)  
 
-### Combining scp, ;, and ssh to copy the whole directory and run the tests in one line  
+### Combining `scp`, `;`, and `ssh` to copy the whole directory and run the tests in one line  
 (took two tries because I forgot to include cd the first time)  
 ![i3](thisOne3.png)
