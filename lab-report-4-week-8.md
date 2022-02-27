@@ -3,6 +3,7 @@ Note: I cannot get my test files to run. I made sure lib, junit, and hamcrest we
 ## Repository Links for markdown-parse  
 - [my repository](https://github.com/kate-romero/my-markdown-parse)  
 - [the repository my group reviewed](https://github.com/Stocktocon/markdown-parse)  
+  
 ## Testing and Output
 ### Tests
 - testers for my group's code:  
@@ -16,6 +17,7 @@ None of the tests passed. The mistakes in our output are written in red.
 - output of the code my group reviewed:
 ![yourResults](yourResults.png)  
 None of the tests passed, but they came closer than we did. The mistakes in their output are written in red.  
+  
 ## Questions
 1) Snippet 1: I think a small code change could make our program work for snippet 1 and related cases. I think it would involve prioritizing sets of [] and () by ignoring sets of '' and "" that start or finish inside a set of [] or ().  
   
