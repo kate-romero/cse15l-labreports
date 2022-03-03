@@ -1,5 +1,4 @@
 # Week 8: Lab Report 4  
-Note: I cannot get my test files to run. I made sure lib, junit, and hamcrest were correctly named and that I used the correct Windows commands, but was still unsuccessful. The output section contains screenshots of running the two programs with each snippet. I manually compared the actual output to the expected output. I am currently working to figure out why I can't run my test files.  
 ## Repository Links for markdown-parse  
 - [my repository](https://github.com/kate-romero/my-markdown-parse)  
 - [the repository my group reviewed](https://github.com/Stocktocon/markdown-parse)  
@@ -12,10 +11,14 @@ Note: I cannot get my test files to run. I made sure lib, junit, and hamcrest we
 ![yourTests](yourTests.png)  
 ### Output
 - output of my group's code:  
-![myResults](myResults.png)  
+![myResults1](lab4my1.png)  
+![myResults2](lab4my2.png)  
+![myResults3](lab4my3.png)  
 None of the tests passed. The mistakes in our output are written in red.  
 - output of the code my group reviewed:
-![yourResults](yourResults.png)  
+![yourResults1](lab4your1.png)  
+![yourResults2](lab4your2.png)  
+![yourResults3](lab4your3.png)  
 None of the tests passed, but they came closer than we did. The mistakes in their output are written in red.  
   
 ## Questions
