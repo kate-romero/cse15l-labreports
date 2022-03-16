@@ -6,8 +6,8 @@ I found the tests by searching through manually.
 ```
 Given Output: `[/uri]`  
 My Output: An infinite loop.  
-The Given implementation is correct because the expected output is `[uri]`.  
-While working on another part of my implementation, I had commented out the code block that handles nested brackets. I can fix this bug by undoing the //.  
+Neither implementation is correct because the expected output is `[]`.  
+While working on another part of my implementation, I had commented out my while loop. I can fix this bug by undoing the //.  
 ![image](almost.png)  
 ## Test 516
 ```
