@@ -8,7 +8,7 @@ Given Output: `[/uri]`
 My Output: An infinite loop.  
 Neither implementation is correct because the expected output is `[]`.  
 While working on another part of my implementation, I had commented out my while loop. I can fix this bug by undoing the //.  
-![image](almost.png)  
+![image](almost2.png)  
 ## Test 516
 ```
 [![moon](moon.jpg)](/uri)
